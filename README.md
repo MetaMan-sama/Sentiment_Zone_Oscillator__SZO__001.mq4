@@ -1,0 +1,1 @@
+# Sentiment_Zone_Oscillator__SZO__001.mq4
